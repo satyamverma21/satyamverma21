@@ -14,7 +14,15 @@
 <h3 align="center">A passionate Python developer from India</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamverma21&theme=onestar" alt="satyamverma21" /></a> </p>
+
   
+<!--  <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/> -->
+
+  
+ <img align="right" height="200" width="200"  alt="GIF" src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
+
+  
+ 
   <div align = "left">
 
 - 🔭 I’m currently working on **Python and Web Development**
@@ -28,6 +36,7 @@
 - 📫 How to reach me **satyamverma2122004@gmail.com**
     
     </div>
+  <hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
