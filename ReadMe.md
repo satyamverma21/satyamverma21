@@ -19,7 +19,6 @@
 <!--  <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/> -->
 
   
- <img align="right" height="200" width="200"  alt="GIF" src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
   
  
