@@ -56,7 +56,7 @@
 
 ### :fire: My Status :
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satyamverma21&theme=tokyonight-duo&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satyamverma21&theme=neon&border_radius=5)](https://git.io/streak-stats)
  
 
 
