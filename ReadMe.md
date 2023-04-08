@@ -19,7 +19,7 @@
 <!--  <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/> -->
 
   
-<hr>
+<!-- <hr> -->
   
  
   <div align = "left">
