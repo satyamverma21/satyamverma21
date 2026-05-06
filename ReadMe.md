@@ -19,6 +19,8 @@
 
 ## About
 
+🌐 Portfolio: [https://satyamverma21.github.io/Portfolio/](https://satyamverma21.github.io/Portfolio/)
+
 Python developer with hands-on production experience in LLM training, RLHF, and backend systems. I've worked professionally with two companies — an AI talent network and an algorithmic trading platform — and built projects across NLP, retrieval-augmented generation, and mobile development.
 
 Currently pursuing an MCA at Amity University (2026). Undergraduate CGPA: **9.2 / 10** from GGSIPU.
